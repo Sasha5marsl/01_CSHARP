@@ -23,3 +23,15 @@ double product3 = i1 * d1;
 System.Console.WriteLine(product1);
 System.Console.WriteLine(product2);
 System.Console.WriteLine(product3);
+
+int quotient = i1 / i2; // quotient - переводится частное
+System.Console.WriteLine(quotient);
+
+// на консоли мы видем в результате 0, поскольку тип данных был указан - целочисленное
+// для того, чтобы на экран выводилось не целое число, необходимо,
+// чтобы хотя бы одна переменная была типа duoble
+
+d1 = 6;
+double quotient2 = i1 / d1;
+System.Console.WriteLine(quotient2);
+
