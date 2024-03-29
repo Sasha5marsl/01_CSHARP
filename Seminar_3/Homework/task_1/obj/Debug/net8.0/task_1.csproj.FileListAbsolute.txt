@@ -1,0 +1,15 @@
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\task_1.AssemblyInfoInputs.cache
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\task_1.AssemblyInfo.cs
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\task_1.csproj.CoreCompileInputs.cache
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\task_1.sourcelink.json
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\bin\Debug\net8.0\task_1.exe
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\bin\Debug\net8.0\task_1.deps.json
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\bin\Debug\net8.0\task_1.runtimeconfig.json
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\bin\Debug\net8.0\task_1.dll
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\bin\Debug\net8.0\task_1.pdb
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\task_1.dll
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\refint\task_1.dll
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\task_1.pdb
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\task_1.genruntimeconfig.cache
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_3\Homework\task_1\obj\Debug\net8.0\ref\task_1.dll
