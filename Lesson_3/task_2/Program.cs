@@ -16,7 +16,8 @@ void PrintSquares(int limit)
 }
 
 PrintSquares(7);
-System.Console.WriteLine();
+System.Console.WriteLine(); 
+// я добавила пустую строку, чтобы значения двух фукнций не слипались
 
 
 // НАПИСАЛА ФУНКЦИЮ САМА
