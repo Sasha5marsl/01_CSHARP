@@ -27,8 +27,11 @@ int Count(int[] col)
     int count = 0;
     for (int i = 0; i < col.Length; i++)
     {
-        if(col[i] % 10 == 1 && col[i] % 7 == 0)
+        if(col[i] % 10 == 1 && col[i] % 7 == 0) 
+        // деление на 10 по модулю показывает нам последнюю цифру числа и выводит остаток от деления
         {
+            System.Console.WriteLine();
+            System.Console.Write($"Подходящие числа: {col[i]} ");
             count++;
         }
     }
@@ -39,7 +42,7 @@ void PrintMass(int[] coon)
 {
     foreach (var item in coon)
     {
-        System.Console.Write($"{item} ");
+        System.Console.Write($"{item}, ");
     }
     System.Console.WriteLine();
 }
@@ -47,4 +50,5 @@ void PrintMass(int[] coon)
 int[] mas = RandomMass(arr);
 PrintMass(mas);
 int count = Count(mas);
+System.Console.WriteLine();
 System.Console.WriteLine($"Количество равно {count}");
