@@ -1,0 +1,15 @@
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\bin\Debug\net8.0\Homework_4.exe
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\bin\Debug\net8.0\Homework_4.deps.json
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\bin\Debug\net8.0\Homework_4.runtimeconfig.json
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\bin\Debug\net8.0\Homework_4.dll
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\bin\Debug\net8.0\Homework_4.pdb
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\Homework_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\Homework_4.AssemblyInfoInputs.cache
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\Homework_4.AssemblyInfo.cs
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\Homework_4.csproj.CoreCompileInputs.cache
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\Homework_4.sourcelink.json
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\Homework_4.dll
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\refint\Homework_4.dll
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\Homework_4.pdb
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\Homework_4.genruntimeconfig.cache
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_4\Homework_4\obj\Debug\net8.0\ref\Homework_4.dll
