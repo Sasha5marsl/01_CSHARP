@@ -1,0 +1,15 @@
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\bin\Debug\net8.0\Task_3.exe
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\bin\Debug\net8.0\Task_3.deps.json
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\bin\Debug\net8.0\Task_3.runtimeconfig.json
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\bin\Debug\net8.0\Task_3.dll
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\bin\Debug\net8.0\Task_3.pdb
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfoInputs.cache
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfo.cs
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\Task_3.csproj.CoreCompileInputs.cache
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\Task_3.sourcelink.json
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\Task_3.dll
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\refint\Task_3.dll
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\Task_3.pdb
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\Task_3.genruntimeconfig.cache
+D:\САША\Учеба\Знакомство с языками програмирования (лекции)\01_CSHARP\01_CSHARP\Seminar_6\Task_3\obj\Debug\net8.0\ref\Task_3.dll
